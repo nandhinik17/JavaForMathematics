@@ -16,7 +16,7 @@ Number Theory
 
 Mathematical Logic
 
-Problem Solving & Algorithms
+Problem Solving & Algorithm
 
 It connects deep mathematical ideas with clean Java code — improving both thinking and coding skills, step by step.
 
